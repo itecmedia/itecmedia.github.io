@@ -1,3 +1,0 @@
-# itecmedia.github.io
-
-Test
